@@ -5,7 +5,7 @@
 
 ### » Social media « 
 > You can get in touch with me from any of the social sites below. Have a nice moment.
-- [»Twitter«](https://twitter.com/roycebobwillie) 🐦
+- [»Twitter«](https://twitter.com/royce__bob) 🐦
 - [»Instagram«](https://instagram.com/roycebobelwillie) 📸
 - [»Facebook«](https://facebook.com/royce.bob) 🏸
 - [»Palcity«](https://palcity.com/royce.bob) 💒
