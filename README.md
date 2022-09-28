@@ -1,5 +1,7 @@
 ###### _Testing your browser.._
 #### 🚀 ©𝐆𝐚𝐬𝐂𝐨𝐦𝐈𝐓™ • Developer
+
+### See my [»Repositories«](https://github.com/Royce-B?tab=repositories) here.
 - This is Royce Bob....
 > I am a young Kenyan IT guys, trying to do my best in the field of internet and computers. My passion is to create new system alogarthms and logics, I'm currentry learning Vuejs after completing Django and some few stuffs to do with WhatsApp we API.
 
