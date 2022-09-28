@@ -5,7 +5,10 @@
 
 ### » Social media « 
 > You can get in touch with me from any of the social sites below. Have a nice moment.
+- [»Google Dev«](https://g.dev/royce_b) 💻
 - [»Twitter«](https://twitter.com/royce__bob) 🐦
 - [»Instagram«](https://instagram.com/roycebobelwillie) 📸
-- [»Facebook«](https://facebook.com/royce.bob) 🏸
+- [»Facebook«](https://facebook.com/royceplusbob) 🏸
 - [»Palcity«](https://palcity.com/royce.bob) 💒
+- [»Organization«](https://github.com/kenyanofficial) 🏬
+
